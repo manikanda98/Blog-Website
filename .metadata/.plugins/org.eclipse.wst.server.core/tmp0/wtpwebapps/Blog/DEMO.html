@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+</head>
+<body>
+    <div class="blog">
+		<div class="card mb-3">
+			<div class="card-header">
+				<h2 id="header">Lorem ipsum 
+					<img src="images/delete.png" alt="delete" id="del" align="right"
+						 width="30px" class="delete">
+				</h2>
+			</div>
+			<div class="card-body">
+				<h2 class="card-title">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit.
+				<p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error aut architecto sunt tempore itaque debitis ab temporibus, nihil, maxime rerum magni! Ipsam officia soluta amet quam harum quasi eius dolorem.</p>
+				<p class="card-text">
+					<small class="text-muted">Posted on:lorem
+					</small>
+				</p>
+				
+				<p id="url"><a href="login.jsp" style="color: rgb(6, 6, 5);">Login</a></p>
+			</div>
+		</div>
+	</div>
+    <script>
+        $("document").ready(function() {
+              $(".delete").click(function(){
+                $(".blog").hide()
+              })
+        })
+ </script>
+
+<script>
+	$("document").ready(function(){
+		$("a").click(function(){
+			 var url= $("a").attr("href");
+			$("#url").text(url);
+		})
+    
+      
+	})  
+ </script>
+
+</body>
+</html>

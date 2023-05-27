@@ -1,0 +1,1190 @@
+
+Mar 02, 2023 21:00:22.641 NEW SESSION
+Mar 02, 2023 21:00:22.642 [6160:15520:0302/210022.639:ERROR:device_event_log_impl.cc(218)] [21:00:22.640] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:00:22.642 [6160:15520:0302/210022.639:ERROR:device_event_log_impl.cc(218)] [21:00:22.640] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:00:33.399 [3696:8060:0302/210033.398:ERROR:device_event_log_impl.cc(218)] [21:00:33.398] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:00:33.409 [3696:8060:0302/210033.398:ERROR:device_event_log_impl.cc(218)] [21:00:33.398] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 02, 2023 21:01:33.34 NEW SESSION
+Mar 02, 2023 21:01:33.35 [4228:4652:0302/210133.033:ERROR:device_event_log_impl.cc(218)] [21:01:33.032] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:01:33.35 [4228:4652:0302/210133.033:ERROR:device_event_log_impl.cc(218)] [21:01:33.032] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:02:45.886 [9088:8752:0302/210245.885:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Mar 02, 2023 21:05:12.829 NEW SESSION
+Mar 02, 2023 21:05:12.829 [2612:8036:0302/210512.827:ERROR:device_event_log_impl.cc(218)] [21:05:12.827] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:05:12.829 [2612:8036:0302/210512.827:ERROR:device_event_log_impl.cc(218)] [21:05:12.828] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:10:52.968 [10660:3752:0302/211052.968:ERROR:device_event_log_impl.cc(218)] [21:10:52.967] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:10:52.968 [10660:3752:0302/211052.968:ERROR:device_event_log_impl.cc(218)] [21:10:52.967] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:11:21.786 [5032:11536:0302/211121.785:ERROR:device_event_log_impl.cc(218)] [21:11:21.785] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:11:21.786 [5032:11536:0302/211121.786:ERROR:device_event_log_impl.cc(218)] [21:11:21.786] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:24:11.767 [15016:4172:0302/212411.766:ERROR:device_event_log_impl.cc(218)] [21:24:11.766] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:24:11.767 [15016:4172:0302/212411.767:ERROR:device_event_log_impl.cc(218)] [21:24:11.767] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:24:12.605 [15016:2116:0302/212412.605:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 02, 2023 21:24:18.921 [12520:15508:0302/212418.921:ERROR:device_event_log_impl.cc(218)] [21:24:18.921] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:24:18.922 [12520:15508:0302/212418.921:ERROR:device_event_log_impl.cc(218)] [21:24:18.921] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:49:54.774 [10276:15324:0302/214954.774:ERROR:device_event_log_impl.cc(218)] [21:49:54.774] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:49:54.774 [10276:15324:0302/214954.774:ERROR:device_event_log_impl.cc(218)] [21:49:54.774] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:50:52.804 [9992:12932:0302/215052.804:ERROR:device_event_log_impl.cc(218)] [21:50:52.804] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:50:52.805 [9992:12932:0302/215052.804:ERROR:device_event_log_impl.cc(218)] [21:50:52.805] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:51:24.61 [3652:9684:0302/215124.061:ERROR:device_event_log_impl.cc(218)] [21:51:24.060] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:51:24.61 [3652:9684:0302/215124.061:ERROR:device_event_log_impl.cc(218)] [21:51:24.060] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:51:24.234 [3652:8428:0302/215124.233:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 02, 2023 21:51:36.579 [6668:4656:0302/215136.578:ERROR:device_event_log_impl.cc(218)] [21:51:36.578] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:51:36.579 [6668:4656:0302/215136.579:ERROR:device_event_log_impl.cc(218)] [21:51:36.578] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:52:46.657 [7728:7260:0302/215246.657:ERROR:device_event_log_impl.cc(218)] [21:52:46.657] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:52:46.658 [7728:7260:0302/215246.657:ERROR:device_event_log_impl.cc(218)] [21:52:46.657] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:53:01.691 [11764:17320:0302/215301.691:ERROR:device_event_log_impl.cc(218)] [21:53:01.690] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:53:01.691 [11764:17320:0302/215301.691:ERROR:device_event_log_impl.cc(218)] [21:53:01.690] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 02, 2023 21:57:35.481 NEW SESSION
+Mar 02, 2023 21:57:35.481 [9344:9252:0302/215735.480:ERROR:device_event_log_impl.cc(218)] [21:57:35.480] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:57:35.481 [9344:9252:0302/215735.480:ERROR:device_event_log_impl.cc(218)] [21:57:35.480] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:59:41.487 [4136:8276:0302/215941.486:ERROR:device_event_log_impl.cc(218)] [21:59:41.486] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:59:41.489 [4136:8276:0302/215941.486:ERROR:device_event_log_impl.cc(218)] [21:59:41.487] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 02, 2023 22:14:07.492 NEW SESSION
+Mar 02, 2023 22:14:07.492 [5592:18000:0302/221407.490:ERROR:device_event_log_impl.cc(218)] [22:14:07.489] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:14:07.492 [5592:18000:0302/221407.491:ERROR:device_event_log_impl.cc(218)] [22:14:07.490] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:14:39.685 [14084:3564:0302/221439.685:ERROR:device_event_log_impl.cc(218)] [22:14:39.685] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:14:39.685 [14084:3564:0302/221439.685:ERROR:device_event_log_impl.cc(218)] [22:14:39.685] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 02, 2023 22:23:30.633 NEW SESSION
+Mar 02, 2023 22:23:30.633 [11432:1348:0302/222330.631:ERROR:device_event_log_impl.cc(218)] [22:23:30.631] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:23:30.633 [11432:1348:0302/222330.632:ERROR:device_event_log_impl.cc(218)] [22:23:30.631] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:24:42.70 [11992:10204:0302/222442.070:ERROR:device_event_log_impl.cc(218)] [22:24:42.070] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:24:42.71 [11992:10204:0302/222442.070:ERROR:device_event_log_impl.cc(218)] [22:24:42.070] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:25:37.969 [14868:17016:0302/222537.969:ERROR:device_event_log_impl.cc(218)] [22:25:37.969] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:25:37.970 [14868:17016:0302/222537.970:ERROR:device_event_log_impl.cc(218)] [22:25:37.970] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:34:59.89 [12536:8020:0302/223459.089:ERROR:device_event_log_impl.cc(218)] [22:34:59.089] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:34:59.89 [12536:8020:0302/223459.089:ERROR:device_event_log_impl.cc(218)] [22:34:59.090] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:35:20.211 [4024:11076:0302/223520.211:ERROR:device_event_log_impl.cc(218)] [22:35:20.211] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:35:20.212 [4024:11076:0302/223520.211:ERROR:device_event_log_impl.cc(218)] [22:35:20.211] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:38:52.842 [11956:4596:0302/223852.842:ERROR:device_event_log_impl.cc(218)] [22:38:52.842] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:38:52.843 [11956:4596:0302/223852.842:ERROR:device_event_log_impl.cc(218)] [22:38:52.842] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 22:55:07.367 [11956:18396:0302/225507.366:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Mar 03, 2023 24:14:50.201 NEW SESSION
+Mar 03, 2023 24:14:50.201 [8896:8744:0303/001450.199:ERROR:device_event_log_impl.cc(218)] [00:14:50.199] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:14:50.202 [8896:8744:0303/001450.199:ERROR:device_event_log_impl.cc(218)] [00:14:50.199] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:15:31.263 [14012:8532:0303/001531.262:ERROR:device_event_log_impl.cc(218)] [00:15:31.262] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:15:31.263 [14012:8532:0303/001531.262:ERROR:device_event_log_impl.cc(218)] [00:15:31.262] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:15:36.45 [14012:200:0303/001536.044:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 03, 2023 24:16:37.939 [16848:16396:0303/001637.938:ERROR:device_event_log_impl.cc(218)] [00:16:37.939] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:16:37.940 [16848:16396:0303/001637.938:ERROR:device_event_log_impl.cc(218)] [00:16:37.939] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:16:56.395 [6828:16704:0303/001656.394:ERROR:device_event_log_impl.cc(218)] [00:16:56.394] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:16:56.395 [6828:16704:0303/001656.395:ERROR:device_event_log_impl.cc(218)] [00:16:56.394] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:17:56.761 [16480:17884:0303/001756.761:ERROR:device_event_log_impl.cc(218)] [00:17:56.761] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:17:56.779 [16480:17884:0303/001756.779:ERROR:device_event_log_impl.cc(218)] [00:17:56.779] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:18:35.769 [15840:12940:0303/001835.769:ERROR:device_event_log_impl.cc(218)] [00:18:35.768] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:18:35.769 [15840:12940:0303/001835.769:ERROR:device_event_log_impl.cc(218)] [00:18:35.768] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:21:18.134 [14024:11568:0303/002118.134:ERROR:device_event_log_impl.cc(218)] [00:21:18.134] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:21:18.135 [14024:11568:0303/002118.134:ERROR:device_event_log_impl.cc(218)] [00:21:18.135] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:35:01.90 [10112:12480:0303/003501.089:ERROR:device_event_log_impl.cc(218)] [00:35:01.089] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:35:01.100 [10112:12480:0303/003501.090:ERROR:device_event_log_impl.cc(218)] [00:35:01.089] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:37:01.911 [4172:5044:0303/003701.911:ERROR:device_event_log_impl.cc(218)] [00:37:01.910] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:37:01.911 [4172:5044:0303/003701.911:ERROR:device_event_log_impl.cc(218)] [00:37:01.910] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:37:25.380 [6244:17132:0303/003725.380:ERROR:device_event_log_impl.cc(218)] [00:37:25.380] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:37:25.380 [6244:17132:0303/003725.380:ERROR:device_event_log_impl.cc(218)] [00:37:25.380] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:40:27.779 [17052:9224:0303/004027.779:ERROR:device_event_log_impl.cc(218)] [00:40:27.778] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:40:27.779 [17052:9224:0303/004027.779:ERROR:device_event_log_impl.cc(218)] [00:40:27.779] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:41:24.743 [7624:856:0303/004124.742:ERROR:device_event_log_impl.cc(218)] [00:41:24.742] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:41:24.744 [7624:856:0303/004124.742:ERROR:device_event_log_impl.cc(218)] [00:41:24.742] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:41:45.873 [9408:10652:0303/004145.873:ERROR:device_event_log_impl.cc(218)] [00:41:45.873] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:41:45.874 [9408:10652:0303/004145.873:ERROR:device_event_log_impl.cc(218)] [00:41:45.873] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:42:01.152 [13000:6252:0303/004201.151:ERROR:device_event_log_impl.cc(218)] [00:42:01.151] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 24:42:01.152 [13000:6252:0303/004201.151:ERROR:device_event_log_impl.cc(218)] [00:42:01.152] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 03, 2023 21:15:26.84 NEW SESSION
+Mar 03, 2023 21:15:26.84 [7692:12016:0303/211526.080:ERROR:device_event_log_impl.cc(218)] [21:15:26.080] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:15:26.85 [7692:12016:0303/211526.081:ERROR:device_event_log_impl.cc(218)] [21:15:26.080] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:16:08.190 [6756:6948:0303/211608.190:ERROR:device_event_log_impl.cc(218)] [21:16:08.190] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:16:08.191 [6756:6948:0303/211608.190:ERROR:device_event_log_impl.cc(218)] [21:16:08.190] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:16:10.211 [6756:14700:0303/211610.211:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 03, 2023 21:16:10.212 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 03, 2023 21:16:10.212 ERROR: No matching issuer found
+Mar 03, 2023 21:16:10.212 
+Mar 03, 2023 21:16:10.212 
+Mar 03, 2023 21:18:59.984 [8156:14512:0303/211859.983:ERROR:device_event_log_impl.cc(218)] [21:18:59.983] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:18:59.984 [8156:14512:0303/211859.984:ERROR:device_event_log_impl.cc(218)] [21:18:59.983] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:19:01.114 [8156:5300:0303/211901.114:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 03, 2023 21:19:01.114 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 03, 2023 21:19:01.115 ERROR: No matching issuer found
+Mar 03, 2023 21:19:01.115 
+Mar 03, 2023 21:19:01.115 
+Mar 03, 2023 21:19:31.330 [8816:5044:0303/211931.330:ERROR:device_event_log_impl.cc(218)] [21:19:31.330] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:19:31.331 [8816:5044:0303/211931.331:ERROR:device_event_log_impl.cc(218)] [21:19:31.331] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:19:42.949 [13528:11496:0303/211942.949:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 03, 2023 21:19:42.950 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 03, 2023 21:19:42.950 ERROR: No matching issuer found
+Mar 03, 2023 21:19:42.952 
+Mar 03, 2023 21:19:42.952 
+Mar 03, 2023 21:19:43.969 [13528:3020:0303/211943.969:ERROR:device_event_log_impl.cc(218)] [21:19:43.970] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:19:43.971 [13528:3020:0303/211943.969:ERROR:device_event_log_impl.cc(218)] [21:19:43.970] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 21:19:54.149 [13528:11496:0303/211954.149:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 03, 2023 21:19:54.150 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 03, 2023 21:19:54.150 ERROR: No matching issuer found
+Mar 03, 2023 21:19:54.150 
+Mar 03, 2023 21:19:54.151 
+
+Mar 09, 2023 07:32:39.529 NEW SESSION
+Mar 09, 2023 07:32:39.529 [19004:18448:0309/073239.528:ERROR:device_event_log_impl.cc(218)] [07:32:39.528] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 09, 2023 07:32:39.531 [19004:18448:0309/073239.528:ERROR:device_event_log_impl.cc(218)] [07:32:39.528] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 09, 2023 07:33:19.150 [2676:18500:0309/073319.150:ERROR:device_event_log_impl.cc(218)] [07:33:19.150] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 09, 2023 07:33:19.152 [2676:18500:0309/073319.150:ERROR:device_event_log_impl.cc(218)] [07:33:19.150] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 09, 2023 07:39:05.196 NEW SESSION
+Mar 09, 2023 07:39:05.196 [17264:14496:0309/073905.195:ERROR:device_event_log_impl.cc(218)] [07:39:05.194] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 09, 2023 07:39:05.196 [17264:14496:0309/073905.195:ERROR:device_event_log_impl.cc(218)] [07:39:05.194] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 09, 2023 22:03:43.522 NEW SESSION
+Mar 09, 2023 22:03:43.522 [2252:6800:0309/220343.520:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 09, 2023 22:03:54.581 [2252:6800:0309/220354.580:ERROR:device_event_log_impl.cc(214)] [22:03:54.581] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 09, 2023 22:03:54.581 [2252:6800:0309/220354.581:ERROR:device_event_log_impl.cc(214)] [22:03:54.581] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 10, 2023 24:00:03.389 NEW SESSION
+Mar 10, 2023 24:00:03.389 [19268:20344:0310/000003.388:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 10, 2023 24:00:07.187 [19268:20344:0310/000007.173:ERROR:device_event_log_impl.cc(214)] [00:00:07.172] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 24:00:07.188 [19268:20344:0310/000007.173:ERROR:device_event_log_impl.cc(214)] [00:00:07.173] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 24:00:08.187 [19268:20344:0310/000008.187:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 10, 2023 24:00:12.577 [19268:20344:0310/000012.577:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 10, 2023 24:00:19.227 [19268:20344:0310/000019.227:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 10, 2023 24:00:29.925 [19268:20344:0310/000029.925:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 10, 2023 24:00:32.377 [19268:20344:0310/000032.377:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 10, 2023 24:01:03.649 [19268:10972:0310/000103.649:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+Mar 10, 2023 17:54:35.446 NEW SESSION
+Mar 10, 2023 17:54:35.446 [19048:17416:0310/175435.444:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 10, 2023 17:54:39.139 [19048:17416:0310/175439.139:ERROR:device_event_log_impl.cc(214)] [17:54:39.138] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 17:54:39.139 [19048:17416:0310/175439.139:ERROR:device_event_log_impl.cc(214)] [17:54:39.139] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 11, 2023 21:02:26.283 NEW SESSION
+Mar 11, 2023 21:02:26.284 [20192:20544:0311/210226.282:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 11, 2023 21:02:30.170 [20192:20544:0311/210230.170:ERROR:device_event_log_impl.cc(214)] [21:02:30.170] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 21:02:30.180 [20192:20544:0311/210230.179:ERROR:device_event_log_impl.cc(214)] [21:02:30.179] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 12, 2023 08:58:43.314 NEW SESSION
+Mar 12, 2023 08:58:43.314 [19220:304:0312/085843.312:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 12, 2023 08:58:47.953 [19220:304:0312/085847.952:ERROR:device_event_log_impl.cc(214)] [08:58:47.951] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 08:58:47.953 [19220:304:0312/085847.952:ERROR:device_event_log_impl.cc(214)] [08:58:47.952] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 08:59:43.538 [19220:9556:0312/085943.537:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+Mar 12, 2023 09:59:52.04 NEW SESSION
+Mar 12, 2023 09:59:52.04 [17976:16380:0312/095952.003:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 12, 2023 09:59:58.160 [17976:16380:0312/095958.156:ERROR:device_event_log_impl.cc(214)] [09:59:58.157] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 09:59:58.161 [17976:16380:0312/095958.160:ERROR:device_event_log_impl.cc(214)] [09:59:58.159] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:00:00.766 [17976:16380:0312/100000.766:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 10:00:02.13 [17976:16380:0312/100002.012:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://www.google.com/search?q=query+format+in+href+tag&rlz=1C1ONGR_enIN1016IN1016&oq=query+format+in+href&aqs=chrome.1.69i57j33i160l2.12134j1j7&sourceid=chrome&ie=UTF-8
+Mar 12, 2023 10:00:52.257 [17976:15548:0312/100052.257:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+Mar 12, 2023 11:06:03.135 [3720:1804:0312/110603.134:ERROR:device_event_log_impl.cc(218)] [11:06:03.134] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:06:03.136 [3720:1804:0312/110603.134:ERROR:device_event_log_impl.cc(218)] [11:06:03.135] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:13:46.617 [20384:10628:0312/111346.617:ERROR:device_event_log_impl.cc(218)] [11:13:46.617] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:13:46.617 [20384:10628:0312/111346.617:ERROR:device_event_log_impl.cc(218)] [11:13:46.617] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:13:47.614 [20384:13076:0312/111347.612:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 12, 2023 11:13:56.31 [18964:8124:0312/111356.031:ERROR:device_event_log_impl.cc(218)] [11:13:56.031] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:13:56.31 [18964:8124:0312/111356.031:ERROR:device_event_log_impl.cc(218)] [11:13:56.031] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:16:34.915 [19908:6772:0312/111634.915:ERROR:device_event_log_impl.cc(218)] [11:16:34.915] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:16:34.915 [19908:6772:0312/111634.915:ERROR:device_event_log_impl.cc(218)] [11:16:34.915] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:18:31.394 [13076:18768:0312/111831.393:ERROR:device_event_log_impl.cc(218)] [11:18:31.394] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:18:31.394 [13076:18768:0312/111831.394:ERROR:device_event_log_impl.cc(218)] [11:18:31.394] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:19:11.59 [18916:14268:0312/111911.058:ERROR:device_event_log_impl.cc(218)] [11:19:11.059] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:19:11.59 [18916:14268:0312/111911.058:ERROR:device_event_log_impl.cc(218)] [11:19:11.059] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:23:36.682 [18916:12016:0312/112336.681:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2023 11:23:55.328 [18916:12016:0312/112355.328:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 12, 2023 11:32:26.485 [16296:17008:0312/113226.485:ERROR:device_event_log_impl.cc(218)] [11:32:26.485] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:32:26.486 [16296:17008:0312/113226.485:ERROR:device_event_log_impl.cc(218)] [11:32:26.486] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:40:13.394 [17952:6472:0312/114013.394:ERROR:device_event_log_impl.cc(218)] [11:40:13.394] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:40:13.394 [17952:6472:0312/114013.394:ERROR:device_event_log_impl.cc(218)] [11:40:13.394] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:41:13.369 [7852:10140:0312/114113.369:ERROR:device_event_log_impl.cc(218)] [11:41:13.370] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:41:13.370 [7852:10140:0312/114113.369:ERROR:device_event_log_impl.cc(218)] [11:41:13.370] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:42:17.708 [3216:13572:0312/114217.707:ERROR:device_event_log_impl.cc(218)] [11:42:17.708] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:42:17.708 [3216:13572:0312/114217.708:ERROR:device_event_log_impl.cc(218)] [11:42:17.708] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 12, 2023 11:49:01.265 NEW SESSION
+Mar 12, 2023 11:49:01.265 [2464:17268:0312/114901.264:ERROR:device_event_log_impl.cc(218)] [11:49:01.264] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:49:01.266 [2464:17268:0312/114901.264:ERROR:device_event_log_impl.cc(218)] [11:49:01.264] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:49:02.224 [2464:13128:0312/114902.223:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 12, 2023 11:49:12.673 [21132:11980:0312/114912.673:ERROR:device_event_log_impl.cc(218)] [11:49:12.672] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:49:12.673 [21132:11980:0312/114912.673:ERROR:device_event_log_impl.cc(218)] [11:49:12.672] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:50:39.208 [15088:10792:0312/115039.207:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 12, 2023 11:50:46.716 [20916:4100:0312/115046.716:ERROR:device_event_log_impl.cc(218)] [11:50:46.716] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 11:50:46.717 [20916:4100:0312/115046.716:ERROR:device_event_log_impl.cc(218)] [11:50:46.716] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 12, 2023 17:31:32.935 NEW SESSION
+Mar 12, 2023 17:31:32.935 [856:2148:0312/173132.925:ERROR:device_event_log_impl.cc(218)] [17:31:32.926] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:31:32.936 [856:2148:0312/173132.925:ERROR:device_event_log_impl.cc(218)] [17:31:32.926] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:31:42.641 [856:14968:0312/173142.641:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 12, 2023 17:32:27.725 [864:18688:0312/173227.725:ERROR:device_event_log_impl.cc(218)] [17:32:27.725] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:32:27.726 [864:18688:0312/173227.725:ERROR:device_event_log_impl.cc(218)] [17:32:27.725] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:38:55.330 [16716:21272:0312/173855.330:ERROR:device_event_log_impl.cc(218)] [17:38:55.329] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:38:55.330 [16716:21272:0312/173855.330:ERROR:device_event_log_impl.cc(218)] [17:38:55.329] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:43:18.889 [19804:15216:0312/174318.889:ERROR:device_event_log_impl.cc(218)] [17:43:18.890] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:43:18.890 [19804:15216:0312/174318.889:ERROR:device_event_log_impl.cc(218)] [17:43:18.890] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:44:03.571 [12604:9668:0312/174403.571:ERROR:device_event_log_impl.cc(218)] [17:44:03.571] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:44:03.572 [12604:9668:0312/174403.571:ERROR:device_event_log_impl.cc(218)] [17:44:03.571] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:44:06.81 [12604:14060:0312/174406.080:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 12, 2023 17:44:42.860 [7744:20728:0312/174442.860:ERROR:device_event_log_impl.cc(218)] [17:44:42.860] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:44:42.861 [7744:20728:0312/174442.860:ERROR:device_event_log_impl.cc(218)] [17:44:42.861] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:45:22.625 [3556:16872:0312/174522.625:ERROR:device_event_log_impl.cc(218)] [17:45:22.624] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:45:22.625 [3556:16872:0312/174522.625:ERROR:device_event_log_impl.cc(218)] [17:45:22.625] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:49:43.641 [17608:832:0312/174943.641:ERROR:device_event_log_impl.cc(218)] [17:49:43.640] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:49:43.641 [17608:832:0312/174943.641:ERROR:device_event_log_impl.cc(218)] [17:49:43.640] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 12, 2023 17:52:06.890 NEW SESSION
+Mar 12, 2023 17:52:06.890 [11428:5096:0312/175206.889:ERROR:device_event_log_impl.cc(218)] [17:52:06.889] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:52:06.891 [11428:5096:0312/175206.889:ERROR:device_event_log_impl.cc(218)] [17:52:06.890] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:52:10.854 [11428:18080:0312/175210.854:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2023 17:52:18.431 [11428:18080:0312/175218.431:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2023 17:52:20.786 [11428:18080:0312/175220.786:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 17:52:23.979 [11428:5096:0312/175223.979:ERROR:device_event_log_impl.cc(218)] [17:52:23.979] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2023 17:53:34.311 [13396:4392:0312/175334.311:ERROR:device_event_log_impl.cc(218)] [17:53:34.310] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:53:34.312 [13396:4392:0312/175334.311:ERROR:device_event_log_impl.cc(218)] [17:53:34.310] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:53:34.332 [13396:8932:0312/175334.330:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2023 17:53:39.911 [13396:8932:0312/175339.911:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2023 17:53:48.584 [13396:8932:0312/175348.584:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 17:59:16.219 [11232:8788:0312/175916.219:ERROR:device_event_log_impl.cc(218)] [17:59:16.218] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 17:59:16.219 [11232:8788:0312/175916.219:ERROR:device_event_log_impl.cc(218)] [17:59:16.219] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 18:11:36.720 [16484:12592:0312/181136.719:ERROR:device_event_log_impl.cc(218)] [18:11:36.718] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 18:11:36.720 [16484:12592:0312/181136.720:ERROR:device_event_log_impl.cc(218)] [18:11:36.719] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 18:12:19.297 [9644:9900:0312/181219.297:ERROR:device_event_log_impl.cc(218)] [18:12:19.296] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 18:12:19.297 [9644:9900:0312/181219.297:ERROR:device_event_log_impl.cc(218)] [18:12:19.297] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 18:16:57.236 [17476:10200:0312/181657.235:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 12, 2023 18:17:02.847 [17476:10200:0312/181702.846:ERROR:device_event_log_impl.cc(214)] [18:17:02.846] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 18:17:02.847 [17476:10200:0312/181702.846:ERROR:device_event_log_impl.cc(214)] [18:17:02.846] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 18:17:57.486 [17476:3552:0312/181757.485:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+Mar 12, 2023 18:30:00.752 [17476:10200:0312/183000.752:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+
+Mar 12, 2023 21:10:13.993 NEW SESSION
+Mar 12, 2023 21:10:13.993 [10616:19232:0312/211013.992:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 12, 2023 21:10:47.399 [10616:19232:0312/211047.398:ERROR:device_event_log_impl.cc(214)] [21:10:47.398] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 21:10:47.401 [10616:19232:0312/211047.399:ERROR:device_event_log_impl.cc(214)] [21:10:47.399] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 21:11:14.222 [10616:17444:0312/211114.222:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+Mar 12, 2023 21:54:36.384 [10616:19232:0312/215436.383:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:54:38.395 [10616:19232:0312/215438.395:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:54:39.175 [10616:19232:0312/215439.175:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:54:39.654 [10616:19232:0312/215439.654:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://www.flaticon.com/free-icons/like-button
+Mar 12, 2023 21:55:59.517 [10616:19232:0312/215559.517:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:55:59.562 [10616:19232:0312/215559.562:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:55:59.565 [10616:19232:0312/215559.564:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:55:59.565 [10616:19232:0312/215559.564:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:55:59.567 [10616:19232:0312/215559.567:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:55:59.569 [10616:19232:0312/215559.568:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:55:59.579 [10616:19232:0312/215559.579:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:56:00.769 [10616:19232:0312/215600.768:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=864784
+Mar 12, 2023 21:56:00.782 [10616:19232:0312/215600.782:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://acdn.adnxs.com/dmp/async_usersync.html
+Mar 12, 2023 21:56:00.787 [10616:19232:0312/215600.787:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://js-sec.indexww.com/um/ixmatch.html
+Mar 12, 2023 21:56:00.795 [10616:19232:0312/215600.795:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://u.openx.net/w/1.0/pd
+Mar 12, 2023 21:56:00.801 [10616:19232:0312/215600.801:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://eus.rubiconproject.com/usync.html
+Mar 12, 2023 21:56:00.809 [10616:19232:0312/215600.808:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://cookies.nextmillmedia.com/sync?type=iframe
+Mar 12, 2023 21:56:09.497 [10616:19232:0312/215609.497:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:56:10.749 [10616:19232:0312/215610.749:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ssum-sec.casalemedia.com/usermatch?d=https%3A%2F%2Fwww.flaticon.com%2Ffree-icons%2Flike-button&s=184674&cb=https%3A%2F%2Fcdn.indexww.com%2Fht%2Fhtw-pixel.gif%3F
+Mar 12, 2023 21:56:20.204 [10616:19232:0312/215620.204:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:56:20.207 [10616:19232:0312/215620.207:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:56:20.210 [10616:19232:0312/215620.210:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:56:20.213 [10616:19232:0312/215620.213:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 12, 2023 21:56:21.399 [10616:19232:0312/215621.397:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ssc-cms.33across.com/ps/?m=xch&rt=html&gdpr=&gdpr_consent=&us_privacy=&ru=https%3A%2F%2Fpbs.nextmillmedia.com%2Fsetuid%3Fbidder%3D33across%26nmuid%3D%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uid%3D33XUSERID33X&id=zzz000000000002zzz
+Mar 12, 2023 21:56:21.403 [10616:19232:0312/215621.403:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://rtb.openx.net/sync/prebid?gdpr=&gdpr_consent=&r=https%3A%2F%2Fpbs.nextmillmedia.com%2Fsetuid%3Fbidder%3Dopenx%26nmuid%3D%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uid%3D%24%7BUID%7D
+Mar 12, 2023 21:56:21.415 [10616:19232:0312/215621.415:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://sync.colossusssp.com/pbs.gif?gdpr=&gdpr_consent=&us_privacy=&redir=https%3A%2F%2Fpbs.nextmillmedia.com%2Fsetuid%3Fbidder%3Dcolossus%26nmuid%3D%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uid%3D%5BUID%5D
+Mar 12, 2023 21:56:21.421 [10616:19232:0312/215621.421:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=17888&endpoint=us-east
+Mar 12, 2023 21:56:21.433 [10616:19232:0312/215621.433:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://image8.pubmatic.com/AdServer/ImgSync?p=157577&gdpr=&gdpr_consent=&us_privacy=&pu=https%3A%2F%2Fpbs.nextmillmedia.com%2Fsetuid%3Fbidder%3Dpubmatic%26nmuid%3D%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uid%3D%23PMUID
+Mar 12, 2023 21:56:21.447 [10616:19232:0312/215621.447:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://csync.loopme.me/?pubid=11364&gdpr=&gdpr_consent=&redirect=https%3A%2F%2Fpbs.nextmillmedia.com%2Fsetuid%3Fbidder%3Dloopme%26nmuid%3D%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uid%3D%7Bviewer_token%7D
+Mar 12, 2023 21:56:26.224 [10616:19232:0312/215626.223:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://simage4.pubmatic.com/AdServer/SPug?o=1&p=864784&sc=1&u=91E8391E-1EC4-4939-BA3D-BD4FC4D84BB0&rs=3&gdpr=0&gdpr_consent=&us_privacy=
+
+Mar 13, 2023 13:07:39.570 NEW SESSION
+Mar 13, 2023 13:07:39.570 [4476:18472:0313/130739.569:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 13, 2023 13:07:40.64 [4476:18472:0313/130740.064:ERROR:edge_auth_errors.cc(450)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kTokenRequestFailed, Secondary Error: kTokenFetchUserInteractionRequired, Platform error: -2147023665, hex:800704cf, Error string: Error code: 0x800704cf, error message:Error
+Mar 13, 2023 13:07:40.64 
+Mar 13, 2023 13:07:43.801 [4476:18472:0313/130743.801:ERROR:device_event_log_impl.cc(214)] [13:07:43.800] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 13:07:43.802 [4476:18472:0313/130743.801:ERROR:device_event_log_impl.cc(214)] [13:07:43.800] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 13:07:44.154 [4476:18472:0313/130744.153:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -105 DidTimeOut: 0 URL: https://leetcode.com/problems/valid-anagram/
+
+Mar 15, 2023 12:10:48.385 NEW SESSION
+Mar 15, 2023 12:10:48.385 [10776:13144:0315/121048.383:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 15, 2023 12:10:52.532 [10776:13144:0315/121052.531:ERROR:device_event_log_impl.cc(214)] [12:10:52.532] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 12:10:52.532 [10776:13144:0315/121052.532:ERROR:device_event_log_impl.cc(214)] [12:10:52.532] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 12:11:48.642 [10776:2960:0315/121148.642:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+Mar 15, 2023 19:52:07.929 NEW SESSION
+Mar 15, 2023 19:52:07.929 [9472:13284:0315/195207.927:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 15, 2023 20:07:13.612 [3852:1892:0315/200713.612:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 15, 2023 20:34:52.37 [8440:17868:0315/203452.036:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 15, 2023 20:36:00.249 [7348:9004:0315/203600.249:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 15, 2023 20:37:00.429 [7348:9004:0315/203700.429:ERROR:device_event_log_impl.cc(214)] [20:37:00.429] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 20:37:00.430 [7348:9004:0315/203700.429:ERROR:device_event_log_impl.cc(214)] [20:37:00.430] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 20:37:00.566 [7348:4500:0315/203700.566:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+Mar 16, 2023 07:18:28.830 NEW SESSION
+Mar 16, 2023 07:18:28.830 [16912:16648:0316/071828.828:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 16, 2023 07:18:32.572 [16912:16648:0316/071832.569:ERROR:device_event_log_impl.cc(214)] [07:18:32.569] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 07:18:32.572 [16912:16648:0316/071832.570:ERROR:device_event_log_impl.cc(214)] [07:18:32.570] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 07:18:35.215 [16912:16648:0316/071835.214:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -21 DidTimeOut: 0 URL: https://www.mongodb.com/docs/atlas/
+
+Mar 16, 2023 12:28:31.89 NEW SESSION
+Mar 16, 2023 12:28:31.89 [16900:2844:0316/122831.087:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 16, 2023 12:28:35.621 [16900:2844:0316/122835.620:ERROR:device_event_log_impl.cc(214)] [12:28:35.620] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 12:28:35.621 [16900:2844:0316/122835.620:ERROR:device_event_log_impl.cc(214)] [12:28:35.621] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 16, 2023 21:06:07.321 NEW SESSION
+Mar 16, 2023 21:06:07.321 [9056:2772:0316/210607.320:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 16, 2023 21:06:10.274 [9056:2772:0316/210610.274:ERROR:device_event_log_impl.cc(214)] [21:06:10.274] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 21:06:10.274 [9056:2772:0316/210610.274:ERROR:device_event_log_impl.cc(214)] [21:06:10.274] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 16, 2023 23:55:32.856 NEW SESSION
+Mar 16, 2023 23:55:32.856 [3900:9624:0316/235532.853:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 16, 2023 23:55:36.114 [3900:9624:0316/235536.114:ERROR:device_event_log_impl.cc(214)] [23:55:36.113] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 23:55:36.115 [3900:9624:0316/235536.114:ERROR:device_event_log_impl.cc(214)] [23:55:36.113] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 23:56:33.139 [3900:19984:0316/235633.138:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+Mar 17, 2023 07:29:53.880 NEW SESSION
+Mar 17, 2023 07:29:53.880 [2668:17880:0317/072953.879:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 17, 2023 07:29:56.983 [2668:17880:0317/072956.982:ERROR:device_event_log_impl.cc(214)] [07:29:56.983] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 07:29:56.983 [2668:17880:0317/072956.983:ERROR:device_event_log_impl.cc(214)] [07:29:56.983] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 18, 2023 07:15:28.897 NEW SESSION
+Mar 18, 2023 07:15:28.897 [7016:17056:0318/071528.895:ERROR:assistance_home_client.cc(32)] File path C:\Users\prasa\AppData\Local\Microsoft\Edge\User Data\Default
+Mar 18, 2023 07:15:33.683 [7016:17056:0318/071533.683:ERROR:device_event_log_impl.cc(214)] [07:15:33.683] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 07:15:33.684 [7016:17056:0318/071533.683:ERROR:device_event_log_impl.cc(214)] [07:15:33.683] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 07:15:34.696 [7016:17056:0318/071534.696:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -106 DidTimeOut: 0 URL: https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&prerender=1
+Mar 18, 2023 07:16:29.187 [7016:10060:0318/071629.187:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+Mar 18, 2023 07:16:33.650 [7016:17056:0318/071633.649:ERROR:smartscreen_dns_resolver.cc(106)] SmartScreenDnsResolver::OnComplete Error: -106 DidTimeOut: 0 URL: https://www.google.com/search?q=leetcode&rlz=1C1ONGR_enIN1016IN1016&oq=&aqs=chrome.0.69i59i450l8.370470418j0j7&sourceid=chrome&ie=UTF-8
+
+Mar 18, 2023 08:39:48.419 NEW SESSION
+Mar 18, 2023 08:39:48.419 [12512:18320:0318/083948.417:ERROR:device_event_log_impl.cc(222)] [08:39:48.417] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 08:39:48.419 [12512:18320:0318/083948.417:ERROR:device_event_log_impl.cc(222)] [08:39:48.418] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 08:39:48.434 [12512:19940:0318/083948.434:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 08:39:48.778 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 08:40:13.906 [6080:14688:0318/084013.906:ERROR:device_event_log_impl.cc(222)] [08:40:13.906] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 08:40:13.907 [6080:14688:0318/084013.906:ERROR:device_event_log_impl.cc(222)] [08:40:13.906] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 08:40:13.914 [6080:2148:0318/084013.914:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 08:40:14.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 18, 2023 09:17:52.140 NEW SESSION
+Mar 18, 2023 09:17:52.140 [13328:16928:0318/091752.138:ERROR:device_event_log_impl.cc(222)] [09:17:52.138] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:17:52.141 [13328:16928:0318/091752.139:ERROR:device_event_log_impl.cc(222)] [09:17:52.138] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:17:52.142 [13328:14184:0318/091752.142:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:17:52.288 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:18:10.475 [9048:2764:0318/091810.475:ERROR:device_event_log_impl.cc(222)] [09:18:10.475] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:18:10.476 [9048:2764:0318/091810.475:ERROR:device_event_log_impl.cc(222)] [09:18:10.475] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:18:10.476 [9048:20300:0318/091810.476:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:18:10.609 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:19:43.159 [19972:13956:0318/091943.159:ERROR:device_event_log_impl.cc(222)] [09:19:43.159] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:19:43.159 [19972:13956:0318/091943.159:ERROR:device_event_log_impl.cc(222)] [09:19:43.160] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:19:43.165 [19972:9768:0318/091943.164:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:19:43.287 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:30:57.381 [6008:16512:0318/093057.381:ERROR:device_event_log_impl.cc(222)] [09:30:57.380] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:30:57.381 [6008:16512:0318/093057.381:ERROR:device_event_log_impl.cc(222)] [09:30:57.380] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:30:57.384 [6008:12972:0318/093057.384:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:30:57.510 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:31:34.231 [18272:10812:0318/093134.231:ERROR:device_event_log_impl.cc(222)] [09:31:34.230] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:31:34.231 [18272:10812:0318/093134.231:ERROR:device_event_log_impl.cc(222)] [09:31:34.230] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:31:34.233 [18272:5680:0318/093134.233:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:31:34.368 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:33:28.24 [12028:3456:0318/093328.023:ERROR:device_event_log_impl.cc(222)] [09:33:28.023] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:33:28.24 [12028:3456:0318/093328.024:ERROR:device_event_log_impl.cc(222)] [09:33:28.023] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:33:28.28 [12028:5996:0318/093328.028:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:33:28.156 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:35:31.653 [18024:18320:0318/093531.653:ERROR:device_event_log_impl.cc(222)] [09:35:31.652] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:35:31.653 [18024:18320:0318/093531.653:ERROR:device_event_log_impl.cc(222)] [09:35:31.653] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:35:31.671 [18024:11808:0318/093531.671:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:35:32.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:49:13.519 [7444:3868:0318/094913.519:ERROR:device_event_log_impl.cc(222)] [09:49:13.519] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:49:13.522 [7444:3868:0318/094913.519:ERROR:device_event_log_impl.cc(222)] [09:49:13.519] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:49:13.541 [7444:5996:0318/094913.540:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:49:13.862 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:49:36.351 [11580:9336:0318/094936.350:ERROR:device_event_log_impl.cc(222)] [09:49:36.350] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:49:36.351 [11580:9336:0318/094936.351:ERROR:device_event_log_impl.cc(222)] [09:49:36.350] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:49:36.377 [11580:17692:0318/094936.377:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:49:36.685 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:49:52.741 [18740:17624:0318/094952.741:ERROR:device_event_log_impl.cc(222)] [09:49:52.740] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:49:52.741 [18740:17624:0318/094952.741:ERROR:device_event_log_impl.cc(222)] [09:49:52.740] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:49:52.746 [18740:20400:0318/094952.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 09:49:52.904 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 10:59:04.415 [2412:4356:0318/105904.415:ERROR:device_event_log_impl.cc(222)] [10:59:04.415] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 10:59:04.416 [2412:4356:0318/105904.415:ERROR:device_event_log_impl.cc(222)] [10:59:04.415] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 10:59:04.420 [2412:16952:0318/105904.420:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 10:59:04.558 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 11:04:24.889 [7152:15004:0318/110424.889:ERROR:device_event_log_impl.cc(222)] [11:04:24.889] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 11:04:24.890 [7152:15004:0318/110424.889:ERROR:device_event_log_impl.cc(222)] [11:04:24.890] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 11:04:24.897 [7152:7756:0318/110424.897:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 11:04:25.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 11:04:51.66 [7152:7756:0318/110451.066:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 11:05:31.926 [7152:7756:0318/110531.926:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 11:07:01.200 [7152:7756:0318/110701.200:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 11:10:02.54 [7152:7756:0318/111002.053:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 19, 2023 07:27:02.239 NEW SESSION
+Mar 19, 2023 07:27:02.239 [3016:13884:0319/072702.238:ERROR:device_event_log_impl.cc(222)] [07:27:02.238] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 19, 2023 07:27:02.245 [3016:13884:0319/072702.238:ERROR:device_event_log_impl.cc(222)] [07:27:02.238] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 19, 2023 07:27:02.293 [3016:6464:0319/072702.293:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2023 07:27:02.294 [3016:6464:0319/072702.293:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 19, 2023 07:27:02.660 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 19, 2023 07:27:24.219 [3016:6464:0319/072724.219:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 19, 2023 07:27:30.617 [3016:6464:0319/072730.616:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2023 07:27:33.536 [3016:13884:0319/072733.535:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 19, 2023 07:28:14.417 [3016:6464:0319/072814.416:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 19, 2023 07:28:21.741 [3016:6464:0319/072821.741:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2023 11:47:20.982 [3016:6464:0319/114720.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2023 11:47:20.983 [3016:6464:0319/114720.982:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 19, 2023 11:50:10.582 [3016:6464:0319/115010.581:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2023 11:50:12.722 [3016:6464:0319/115012.722:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 19, 2023 11:53:04.901 [7796:17712:0319/115304.900:ERROR:device_event_log_impl.cc(222)] [11:53:04.900] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 19, 2023 11:53:04.901 [7796:17712:0319/115304.900:ERROR:device_event_log_impl.cc(222)] [11:53:04.900] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 19, 2023 11:53:04.918 [7796:17128:0319/115304.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2023 11:53:04.919 [7796:17128:0319/115304.919:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 19, 2023 11:53:05.230 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 19, 2023 11:53:30.868 [7796:17128:0319/115330.868:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2023 11:53:33.248 [7796:17128:0319/115333.247:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+
+Mar 19, 2023 12:33:24.114 NEW SESSION
+Mar 19, 2023 12:33:24.114 [6916:14952:0319/123324.112:ERROR:device_event_log_impl.cc(222)] [12:33:24.111] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 19, 2023 12:33:24.114 [6916:14952:0319/123324.112:ERROR:device_event_log_impl.cc(222)] [12:33:24.112] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 19, 2023 12:33:24.425 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 20, 2023 11:57:22.496 NEW SESSION
+Mar 20, 2023 11:57:22.498 [8948:19392:0320/115722.496:ERROR:device_event_log_impl.cc(222)] [11:57:22.496] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 11:57:22.498 [8948:19392:0320/115722.496:ERROR:device_event_log_impl.cc(222)] [11:57:22.496] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 11:57:22.955 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2023 12:32:44.87 [936:19744:0320/123244.087:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 20, 2023 12:32:44.87 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 20, 2023 12:32:44.87 ERROR: No matching issuer found
+Mar 20, 2023 12:32:44.87 
+Mar 20, 2023 12:32:44.89 
+Mar 20, 2023 12:32:45.578 [936:8428:0320/123245.578:ERROR:device_event_log_impl.cc(222)] [12:32:45.577] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 12:32:45.579 [936:8428:0320/123245.578:ERROR:device_event_log_impl.cc(222)] [12:32:45.577] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 12:32:45.944 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2023 12:32:48.32 [936:19744:0320/123248.032:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 20, 2023 12:32:48.34 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 20, 2023 12:32:48.34 ERROR: No matching issuer found
+Mar 20, 2023 12:32:48.34 
+Mar 20, 2023 12:32:48.34 
+Mar 20, 2023 12:49:26.419 [936:19744:0320/124926.419:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 20, 2023 12:49:26.419 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 20, 2023 12:49:26.421 ERROR: No matching issuer found
+Mar 20, 2023 12:49:26.421 
+Mar 20, 2023 12:49:26.421 
+Mar 20, 2023 12:53:03.960 [15376:19068:0320/125303.960:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 20, 2023 12:53:03.961 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 20, 2023 12:53:03.961 ERROR: No matching issuer found
+Mar 20, 2023 12:53:03.961 
+Mar 20, 2023 12:53:03.961 
+Mar 20, 2023 12:53:05.374 [15376:11100:0320/125305.374:ERROR:device_event_log_impl.cc(222)] [12:53:05.374] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 12:53:05.375 [15376:11100:0320/125305.374:ERROR:device_event_log_impl.cc(222)] [12:53:05.374] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 12:53:05.810 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2023 12:53:09.377 [15376:19068:0320/125309.377:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 20, 2023 12:53:09.378 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 20, 2023 12:53:09.378 ERROR: No matching issuer found
+Mar 20, 2023 12:53:09.378 
+Mar 20, 2023 12:53:09.378 
+
+Mar 21, 2023 22:57:35.697 NEW SESSION
+Mar 21, 2023 22:57:35.697 [1860:10932:0321/225735.696:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 21, 2023 22:57:35.714 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 21, 2023 22:57:35.714 ERROR: No matching issuer found
+Mar 21, 2023 22:57:35.714 
+Mar 21, 2023 22:57:35.715 
+Mar 21, 2023 22:57:36.722 [1860:12544:0321/225736.721:ERROR:device_event_log_impl.cc(222)] [22:57:36.721] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 22:57:36.722 [1860:12544:0321/225736.721:ERROR:device_event_log_impl.cc(222)] [22:57:36.721] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 22:57:37.144 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2023 22:57:44.297 [1860:10932:0321/225744.297:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 21, 2023 22:57:44.297 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 21, 2023 22:57:44.297 ERROR: No matching issuer found
+Mar 21, 2023 22:57:44.299 
+Mar 21, 2023 22:57:44.299 
+Mar 21, 2023 23:13:42.875 [1860:10932:0321/231342.874:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 21, 2023 23:13:42.875 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 21, 2023 23:13:42.876 ERROR: No matching issuer found
+Mar 21, 2023 23:13:42.876 
+Mar 21, 2023 23:13:42.876 
+
+Mar 31, 2023 08:30:09.852 NEW SESSION
+Mar 31, 2023 08:30:09.852 [20532:5472:0331/083009.851:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for accounts.doubleclick.net failed:
+Mar 31, 2023 08:30:09.853 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 31, 2023 08:30:09.854 ERROR: No matching issuer found
+Mar 31, 2023 08:30:09.854 
+Mar 31, 2023 08:30:09.855 
+Mar 31, 2023 08:30:09.934 [20532:4908:0331/083009.933:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 31, 2023 08:30:09.934 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 31, 2023 08:30:09.934 ERROR: No matching issuer found
+Mar 31, 2023 08:30:09.934 
+Mar 31, 2023 08:30:09.934 
+Mar 31, 2023 08:30:10.236 [20532:12796:0331/083010.236:ERROR:device_event_log_impl.cc(222)] [08:30:10.235] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 08:30:10.236 [20532:12796:0331/083010.236:ERROR:device_event_log_impl.cc(222)] [08:30:10.236] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 08:30:10.637 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 08:30:15.740 [20532:4908:0331/083015.740:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Mar 31, 2023 08:30:15.741 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Mar 31, 2023 08:30:15.741 ERROR: No matching issuer found
+Mar 31, 2023 08:30:15.741 
+Mar 31, 2023 08:30:15.741 
+
+Apr 02, 2023 13:19:44.246 NEW SESSION
+Apr 02, 2023 13:19:44.246 [21248:16616:0402/131944.245:ERROR:device_event_log_impl.cc(222)] [13:19:44.244] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 02, 2023 13:19:44.247 [21248:16616:0402/131944.245:ERROR:device_event_log_impl.cc(222)] [13:19:44.245] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 02, 2023 13:19:44.705 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 03, 2023 09:01:40.379 NEW SESSION
+Apr 03, 2023 09:01:40.379 [12416:23380:0403/090140.376:ERROR:device_event_log_impl.cc(222)] [09:01:40.377] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 09:01:40.380 [12416:23380:0403/090140.376:ERROR:device_event_log_impl.cc(222)] [09:01:40.377] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 09:01:40.643 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 04, 2023 08:58:50.86 NEW SESSION
+Apr 04, 2023 08:58:50.86 [15216:15420:0404/085850.021:ERROR:device_event_log_impl.cc(222)] [08:58:50.021] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 08:58:50.93 [15216:15420:0404/085850.022:ERROR:device_event_log_impl.cc(222)] [08:58:50.022] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 08:58:50.556 [15216:16316:0404/085850.556:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 08:58:51.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2023 08:59:19.515 [15216:16316:0404/085919.514:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 09:00:18.772 [15216:16316:0404/090018.771:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 09:02:16.285 [15216:16316:0404/090216.285:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 09:05:17.815 [15216:16316:0404/090517.813:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 09:11:01.803 [15216:16316:0404/091101.802:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 09:11:11.825 [15216:15420:0404/091111.825:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Apr 04, 2023 09:11:11.826 [15216:15420:0404/091111.826:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Apr 04, 2023 09:11:11.826 [15216:15420:0404/091111.826:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Apr 04, 2023 09:11:13.01 [15216:16316:0404/091113.000:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2023 09:19:38.537 [11940:11828:0404/091938.537:ERROR:device_event_log_impl.cc(222)] [09:19:38.537] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 09:19:38.539 [11940:11828:0404/091938.537:ERROR:device_event_log_impl.cc(222)] [09:19:38.538] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 09:19:41.692 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 04, 2023 20:05:08.722 NEW SESSION
+Apr 04, 2023 20:05:08.722 [12972:19988:0404/200508.720:ERROR:device_event_log_impl.cc(222)] [20:05:08.719] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 20:05:08.723 [12972:19988:0404/200508.721:ERROR:device_event_log_impl.cc(222)] [20:05:08.720] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 20:05:08.795 [12972:23812:0404/200508.794:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:05:08.795 [12972:23812:0404/200508.795:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 04, 2023 20:05:09.211 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2023 20:05:33.398 [12972:23812:0404/200533.397:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 04, 2023 20:05:35.672 [12972:23812:0404/200535.672:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:06:21.802 [12972:23812:0404/200621.802:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 04, 2023 20:06:22.773 [12972:23812:0404/200622.772:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:08:15.291 [12972:23812:0404/200815.289:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:08:17.859 [12972:23812:0404/200817.859:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 04, 2023 20:11:25.529 [12972:23812:0404/201125.529:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 04, 2023 20:12:09.205 [12972:23812:0404/201209.205:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:18:20.419 [12972:23812:0404/201820.419:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:18:22.753 [12972:23812:0404/201822.752:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 04, 2023 20:28:20.428 [12972:23812:0404/202820.428:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:28:22.777 [12972:23812:0404/202822.776:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 04, 2023 20:31:42.91 [12972:23812:0404/203142.091:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2023 20:54:36.109 [12972:23812:0404/205436.109:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:55:08.832 [12972:23812:0404/205508.832:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:55:57.46 [12972:23812:0404/205557.046:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:57:53.17 [12972:23812:0404/205753.017:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:58:17.579 [12972:23812:0404/205817.579:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 20:59:16.51 [12972:23812:0404/205916.051:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 21:00:51.191 [12972:23812:0404/210051.190:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 21:04:38.143 [12972:23812:0404/210438.143:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 21:10:37.745 [12972:23812:0404/211037.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 21:20:37.750 [12972:23812:0404/212037.750:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 21:30:37.761 [12972:23812:0404/213037.761:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 21:40:37.776 [12972:23812:0404/214037.776:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 21:50:37.782 [12972:23812:0404/215037.782:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 22:00:37.792 [12972:23812:0404/220037.792:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 22:10:37.795 [12972:23812:0404/221037.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 22:20:37.800 [12972:23812:0404/222037.800:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 22:30:37.813 [12972:23812:0404/223037.813:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 22:41:53.632 [8576:12492:0404/224153.632:ERROR:device_event_log_impl.cc(222)] [22:41:53.632] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 22:41:53.633 [8576:12492:0404/224153.632:ERROR:device_event_log_impl.cc(222)] [22:41:53.633] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 22:41:54.119 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2023 22:45:52.832 [8576:15648:0404/224552.831:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for global.ib-ibi.com failed:
+Apr 04, 2023 22:45:52.843 ----- Certificate i=0 (CN=*.ib-ibi.com,O=KBM Group LLC,L=Louisville,ST=Colorado,C=US) -----
+Apr 04, 2023 22:45:52.845 ERROR: Time is after notAfter
+Apr 04, 2023 22:45:52.845 
+Apr 04, 2023 22:45:52.845 
+Apr 04, 2023 22:45:52.859 [8576:15648:0404/224552.859:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for global.ib-ibi.com failed:
+Apr 04, 2023 22:45:52.859 ----- Certificate i=0 (CN=*.ib-ibi.com,O=KBM Group LLC,L=Louisville,ST=Colorado,C=US) -----
+Apr 04, 2023 22:45:52.860 ERROR: Time is after notAfter
+Apr 04, 2023 22:45:52.860 
+Apr 04, 2023 22:45:52.860 
+
+Apr 06, 2023 07:06:28.969 NEW SESSION
+Apr 06, 2023 07:06:28.969 [4868:15908:0406/070628.968:ERROR:device_event_log_impl.cc(222)] [07:06:28.968] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:06:28.980 [4868:15908:0406/070628.969:ERROR:device_event_log_impl.cc(222)] [07:06:28.968] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:06:29.129 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 07:06:46.589 [4868:9508:0406/070646.589:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:06:46.590 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:06:46.590 ERROR: No matching issuer found
+Apr 06, 2023 07:06:46.590 
+Apr 06, 2023 07:06:46.591 
+Apr 06, 2023 07:11:59.974 [4868:9508:0406/071159.972:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for play.google.com failed:
+Apr 06, 2023 07:11:59.974 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:11:59.974 ERROR: No matching issuer found
+Apr 06, 2023 07:11:59.975 
+Apr 06, 2023 07:11:59.975 
+Apr 06, 2023 07:12:00.680 [4868:9508:0406/071200.680:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for googleads.g.doubleclick.net failed:
+Apr 06, 2023 07:12:00.681 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:00.681 ERROR: No matching issuer found
+Apr 06, 2023 07:12:00.682 
+Apr 06, 2023 07:12:00.682 
+Apr 06, 2023 07:12:01.05 [4868:9508:0406/071201.005:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for adservice.google.com failed:
+Apr 06, 2023 07:12:01.07 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:01.07 ERROR: No matching issuer found
+Apr 06, 2023 07:12:01.07 
+Apr 06, 2023 07:12:01.08 
+Apr 06, 2023 07:12:14.658 [4868:9508:0406/071214.658:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for a3.pubguru.net failed:
+Apr 06, 2023 07:12:14.660 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:14.660 ERROR: No matching issuer found
+Apr 06, 2023 07:12:14.661 
+Apr 06, 2023 07:12:14.661 
+Apr 06, 2023 07:12:14.914 [4868:9508:0406/071214.913:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for securepubads.g.doubleclick.net failed:
+Apr 06, 2023 07:12:14.914 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:14.914 ERROR: No matching issuer found
+Apr 06, 2023 07:12:14.915 
+Apr 06, 2023 07:12:14.915 
+Apr 06, 2023 07:12:16.320 [4868:9508:0406/071216.319:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for c.amazon-adsystem.com failed:
+Apr 06, 2023 07:12:16.320 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.320 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.320 
+Apr 06, 2023 07:12:16.321 
+Apr 06, 2023 07:12:16.360 [4868:9508:0406/071216.360:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for u.openx.net failed:
+Apr 06, 2023 07:12:16.361 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.361 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.361 
+Apr 06, 2023 07:12:16.361 
+Apr 06, 2023 07:12:16.392 [4868:9508:0406/071216.390:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ads.pubmatic.com failed:
+Apr 06, 2023 07:12:16.392 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.393 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.393 
+Apr 06, 2023 07:12:16.394 
+Apr 06, 2023 07:12:16.524 [4868:9508:0406/071216.524:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ssbsync.smartadserver.com failed:
+Apr 06, 2023 07:12:16.525 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.525 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.525 
+Apr 06, 2023 07:12:16.525 
+Apr 06, 2023 07:12:16.539 [4868:9508:0406/071216.539:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for eb2.3lift.com failed:
+Apr 06, 2023 07:12:16.540 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.540 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.540 
+Apr 06, 2023 07:12:16.541 
+Apr 06, 2023 07:12:16.556 [4868:9508:0406/071216.556:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ads.stickyadstv.com failed:
+Apr 06, 2023 07:12:16.557 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.557 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.557 
+Apr 06, 2023 07:12:16.558 
+Apr 06, 2023 07:12:16.634 [4868:9508:0406/071216.634:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for hbopenbid.pubmatic.com failed:
+Apr 06, 2023 07:12:16.635 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.635 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.635 
+Apr 06, 2023 07:12:16.636 
+Apr 06, 2023 07:12:16.653 [4868:9508:0406/071216.653:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ssum-sec.casalemedia.com failed:
+Apr 06, 2023 07:12:16.654 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.654 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.654 
+Apr 06, 2023 07:12:16.655 
+Apr 06, 2023 07:12:16.866 [4868:9508:0406/071216.866:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for csync.loopme.me failed:
+Apr 06, 2023 07:12:16.867 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:16.867 ERROR: No matching issuer found
+Apr 06, 2023 07:12:16.867 
+Apr 06, 2023 07:12:16.868 
+Apr 06, 2023 07:12:17.41 [4868:9508:0406/071217.041:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cm.adform.net failed:
+Apr 06, 2023 07:12:17.42 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:17.42 ERROR: No matching issuer found
+Apr 06, 2023 07:12:17.43 
+Apr 06, 2023 07:12:17.43 
+Apr 06, 2023 07:12:17.59 [4868:9508:0406/071217.059:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for mb9eo.publishers.tremorhub.com failed:
+Apr 06, 2023 07:12:17.60 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:17.60 ERROR: No matching issuer found
+Apr 06, 2023 07:12:17.60 
+Apr 06, 2023 07:12:17.61 
+Apr 06, 2023 07:12:17.902 [4868:9508:0406/071217.902:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for match.adsrvr.org failed:
+Apr 06, 2023 07:12:17.903 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:17.903 ERROR: No matching issuer found
+Apr 06, 2023 07:12:17.903 
+Apr 06, 2023 07:12:17.904 
+Apr 06, 2023 07:12:18.134 [4868:9508:0406/071218.134:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for id5-sync.com failed:
+Apr 06, 2023 07:12:18.134 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:18.134 ERROR: No matching issuer found
+Apr 06, 2023 07:12:18.136 
+Apr 06, 2023 07:12:18.136 
+Apr 06, 2023 07:12:18.679 [4868:9508:0406/071218.679:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ap.lijit.com failed:
+Apr 06, 2023 07:12:18.679 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:18.681 ERROR: No matching issuer found
+Apr 06, 2023 07:12:18.681 
+Apr 06, 2023 07:12:18.681 
+Apr 06, 2023 07:12:34.165 [4868:9508:0406/071234.164:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for pagead2.googlesyndication.com failed:
+Apr 06, 2023 07:12:34.166 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:12:34.166 ERROR: No matching issuer found
+Apr 06, 2023 07:12:34.166 
+Apr 06, 2023 07:12:34.166 
+Apr 06, 2023 07:13:22.326 [4868:9508:0406/071322.326:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for stats.g.doubleclick.net failed:
+Apr 06, 2023 07:13:22.327 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:13:22.327 ERROR: No matching issuer found
+Apr 06, 2023 07:13:22.327 
+Apr 06, 2023 07:13:22.327 
+Apr 06, 2023 07:13:25.714 [4868:9508:0406/071325.714:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for 0d7fc24b2bde7ec60b87bbe279ab61ec.safeframe.googlesyndication.com failed:
+Apr 06, 2023 07:13:25.715 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:13:25.715 ERROR: No matching issuer found
+Apr 06, 2023 07:13:25.716 
+Apr 06, 2023 07:13:25.716 
+Apr 06, 2023 07:17:36.398 [4868:9508:0406/071736.398:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:17:36.399 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:17:36.399 ERROR: No matching issuer found
+Apr 06, 2023 07:17:36.399 
+Apr 06, 2023 07:17:36.399 
+Apr 06, 2023 07:18:48.670 [13612:12492:0406/071848.670:ERROR:device_event_log_impl.cc(222)] [07:18:48.670] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:18:48.671 [13612:12492:0406/071848.670:ERROR:device_event_log_impl.cc(222)] [07:18:48.671] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:18:49.161 [13612:16720:0406/071849.160:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:18:49.161 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:18:49.161 ERROR: No matching issuer found
+Apr 06, 2023 07:18:49.161 
+Apr 06, 2023 07:18:49.162 
+Apr 06, 2023 07:18:49.202 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 07:19:50.314 [13612:12492:0406/071950.314:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Apr 06, 2023 07:19:50.315 [13612:12492:0406/071950.315:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Apr 06, 2023 07:19:50.315 [13612:12492:0406/071950.315:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Apr 06, 2023 07:20:09.369 [13612:12492:0406/072009.368:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Apr 06, 2023 07:20:09.370 [13612:12492:0406/072009.369:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Apr 06, 2023 07:35:59.978 [6432:17308:0406/073559.977:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:35:59.979 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:35:59.979 ERROR: No matching issuer found
+Apr 06, 2023 07:35:59.980 
+Apr 06, 2023 07:35:59.980 
+Apr 06, 2023 07:36:00.995 [6432:18180:0406/073600.995:ERROR:device_event_log_impl.cc(222)] [07:36:00.995] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:36:00.995 [6432:18180:0406/073600.995:ERROR:device_event_log_impl.cc(222)] [07:36:00.995] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:36:01.433 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 07:37:05.429 [18260:3576:0406/073705.428:ERROR:device_event_log_impl.cc(222)] [07:37:05.428] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:37:05.429 [18260:3576:0406/073705.429:ERROR:device_event_log_impl.cc(222)] [07:37:05.429] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:37:05.577 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 07:37:05.755 [18260:16640:0406/073705.755:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:37:05.756 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:37:05.756 ERROR: No matching issuer found
+Apr 06, 2023 07:37:05.756 
+Apr 06, 2023 07:37:05.757 
+Apr 06, 2023 07:39:14.54 [11128:17160:0406/073914.054:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:39:14.54 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:39:14.54 ERROR: No matching issuer found
+Apr 06, 2023 07:39:14.55 
+Apr 06, 2023 07:39:14.55 
+Apr 06, 2023 07:39:15.496 [11128:12444:0406/073915.496:ERROR:device_event_log_impl.cc(222)] [07:39:15.496] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:39:15.497 [11128:12444:0406/073915.497:ERROR:device_event_log_impl.cc(222)] [07:39:15.496] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:39:15.638 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 07:39:49.372 [18196:7712:0406/073949.372:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:39:49.372 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:39:49.372 ERROR: No matching issuer found
+Apr 06, 2023 07:39:49.373 
+Apr 06, 2023 07:39:49.373 
+Apr 06, 2023 07:39:50.886 [18196:17396:0406/073950.886:ERROR:device_event_log_impl.cc(222)] [07:39:50.885] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:39:50.886 [18196:17396:0406/073950.886:ERROR:device_event_log_impl.cc(222)] [07:39:50.885] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 07:39:51.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 07:40:00.957 [18196:7712:0406/074000.956:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 07:40:00.957 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 07:40:00.957 ERROR: No matching issuer found
+Apr 06, 2023 07:40:00.958 
+Apr 06, 2023 07:40:00.958 
+
+Apr 06, 2023 17:56:02.535 NEW SESSION
+Apr 06, 2023 17:56:02.535 [18124:13808:0406/175602.532:ERROR:device_event_log_impl.cc(222)] [17:56:02.532] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:56:02.536 [18124:13808:0406/175602.536:ERROR:device_event_log_impl.cc(222)] [17:56:02.536] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:56:02.568 [18124:16404:0406/175602.568:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 17:56:02.569 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 17:56:02.569 ERROR: No matching issuer found
+Apr 06, 2023 17:56:02.569 
+Apr 06, 2023 17:56:02.570 
+Apr 06, 2023 17:56:03.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 17:56:07.926 [18124:10392:0406/175607.926:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 17:56:07.927 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 17:56:07.927 ERROR: No matching issuer found
+Apr 06, 2023 17:56:07.927 
+Apr 06, 2023 17:56:07.928 
+Apr 06, 2023 18:05:54.757 [18492:6816:0406/180554.757:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 18:05:54.758 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 18:05:54.758 ERROR: No matching issuer found
+Apr 06, 2023 18:05:54.759 
+Apr 06, 2023 18:05:54.759 
+Apr 06, 2023 18:05:56.163 [18492:8176:0406/180556.163:ERROR:device_event_log_impl.cc(222)] [18:05:56.162] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 18:05:56.164 [18492:8176:0406/180556.163:ERROR:device_event_log_impl.cc(222)] [18:05:56.163] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 18:05:56.618 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 18:06:35.456 [18492:6816:0406/180635.456:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for play.google.com failed:
+Apr 06, 2023 18:06:35.457 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 18:06:35.457 ERROR: No matching issuer found
+Apr 06, 2023 18:06:35.457 
+Apr 06, 2023 18:06:35.458 
+Apr 06, 2023 18:06:35.758 [18492:6816:0406/180635.758:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for adservice.google.com failed:
+Apr 06, 2023 18:06:35.759 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 18:06:35.759 ERROR: No matching issuer found
+Apr 06, 2023 18:06:35.760 
+Apr 06, 2023 18:06:35.760 
+Apr 06, 2023 18:06:46.495 [18492:6816:0406/180646.494:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for c.amazon-adsystem.com failed:
+Apr 06, 2023 18:06:46.495 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 18:06:46.496 ERROR: No matching issuer found
+Apr 06, 2023 18:06:46.496 
+Apr 06, 2023 18:06:46.497 
+Apr 06, 2023 18:06:46.803 [18492:6816:0406/180646.803:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for securepubads.g.doubleclick.net failed:
+Apr 06, 2023 18:06:46.804 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 18:06:46.804 ERROR: No matching issuer found
+Apr 06, 2023 18:06:46.805 
+Apr 06, 2023 18:06:46.805 
+Apr 06, 2023 18:07:39.04 [18492:6816:0406/180739.004:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for stats.g.doubleclick.net failed:
+Apr 06, 2023 18:07:39.04 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 18:07:39.04 ERROR: No matching issuer found
+Apr 06, 2023 18:07:39.04 
+Apr 06, 2023 18:07:39.04 
+Apr 06, 2023 18:17:45.820 [18492:5000:0406/181745.819:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Apr 06, 2023 18:23:40.330 [18492:5000:0406/182340.328:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+Apr 06, 2023 18:24:07.138 [18492:6816:0406/182407.138:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for mtalk.google.com failed:
+Apr 06, 2023 18:24:07.139 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 18:24:07.139 ERROR: No matching issuer found
+Apr 06, 2023 18:24:07.140 
+Apr 06, 2023 18:24:07.140 
+Apr 06, 2023 18:24:07.141 [18492:5000:0406/182407.139:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+Apr 06, 2023 19:09:19.202 [18492:6816:0406/190919.201:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 19:09:19.202 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 19:09:19.203 ERROR: No matching issuer found
+Apr 06, 2023 19:09:19.203 
+Apr 06, 2023 19:09:19.203 
+
+Apr 06, 2023 20:10:59.117 NEW SESSION
+Apr 06, 2023 20:10:59.117 [12228:14800:0406/201059.116:ERROR:device_event_log_impl.cc(222)] [20:10:59.116] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 20:10:59.119 [12228:14800:0406/201059.116:ERROR:device_event_log_impl.cc(222)] [20:10:59.116] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 20:10:59.765 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 20:11:00.718 [12228:4512:0406/201100.717:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for www.reddit.com failed:
+Apr 06, 2023 20:11:00.718 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 20:11:00.719 ERROR: No matching issuer found
+Apr 06, 2023 20:11:00.719 
+Apr 06, 2023 20:11:00.719 
+Apr 06, 2023 20:11:01.552 [12228:4512:0406/201101.551:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for external-preview.redd.it failed:
+Apr 06, 2023 20:11:01.552 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 20:11:01.553 ERROR: No matching issuer found
+Apr 06, 2023 20:11:01.553 
+Apr 06, 2023 20:11:01.554 
+Apr 06, 2023 20:11:01.605 [12228:16340:0406/201101.605:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 06, 2023 20:11:01.606 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 06, 2023 20:11:01.606 ERROR: No matching issuer found
+Apr 06, 2023 20:11:01.606 
+Apr 06, 2023 20:11:01.606 
+
+Apr 08, 2023 11:05:47.29 NEW SESSION
+Apr 08, 2023 11:05:47.29 [14188:14960:0408/110547.028:ERROR:device_event_log_impl.cc(222)] [11:05:47.028] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 08, 2023 11:05:47.30 [14188:14960:0408/110547.028:ERROR:device_event_log_impl.cc(222)] [11:05:47.028] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 08, 2023 11:05:47.600 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2023 11:05:47.713 [14188:15356:0408/110547.713:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for t.ocmhood.com failed:
+Apr 08, 2023 11:05:47.714 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:05:47.715 ERROR: No matching issuer found
+Apr 08, 2023 11:05:47.715 
+Apr 08, 2023 11:05:47.715 
+Apr 08, 2023 11:05:47.773 [14188:15356:0408/110547.773:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for www.reddit.com failed:
+Apr 08, 2023 11:05:47.774 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:05:47.774 ERROR: No matching issuer found
+Apr 08, 2023 11:05:47.775 
+Apr 08, 2023 11:05:47.775 
+Apr 08, 2023 11:05:47.783 [14188:15356:0408/110547.782:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for styles.redditmedia.com failed:
+Apr 08, 2023 11:05:47.783 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:05:47.783 ERROR: No matching issuer found
+Apr 08, 2023 11:05:47.783 
+Apr 08, 2023 11:05:47.783 
+Apr 08, 2023 11:05:49.596 [14188:15356:0408/110549.596:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for s2cp.xyz failed:
+Apr 08, 2023 11:05:49.597 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:05:49.597 ERROR: No matching issuer found
+Apr 08, 2023 11:05:49.598 
+Apr 08, 2023 11:05:49.598 
+Apr 08, 2023 11:05:54.548 [14188:15356:0408/110554.548:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for s.viisaqyw.com failed:
+Apr 08, 2023 11:05:54.548 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:05:54.549 ERROR: No matching issuer found
+Apr 08, 2023 11:05:54.549 
+Apr 08, 2023 11:05:54.549 
+Apr 08, 2023 11:05:54.550 [14188:10096:0408/110554.549:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for i.cdnkimg.com failed:
+Apr 08, 2023 11:05:54.550 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:05:54.551 ERROR: No matching issuer found
+Apr 08, 2023 11:05:54.551 
+Apr 08, 2023 11:05:54.551 
+Apr 08, 2023 11:06:01.662 [14188:15356:0408/110601.661:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cdn.adx1.com failed:
+Apr 08, 2023 11:06:01.662 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:01.662 ERROR: No matching issuer found
+Apr 08, 2023 11:06:01.663 
+Apr 08, 2023 11:06:01.663 
+Apr 08, 2023 11:06:01.800 [14188:15356:0408/110601.799:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for us.freshpops.net failed:
+Apr 08, 2023 11:06:01.800 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:01.800 ERROR: No matching issuer found
+Apr 08, 2023 11:06:01.801 
+Apr 08, 2023 11:06:01.801 
+Apr 08, 2023 11:06:13.182 [14188:15356:0408/110613.182:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for pisism.com failed:
+Apr 08, 2023 11:06:13.183 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:13.183 ERROR: No matching issuer found
+Apr 08, 2023 11:06:13.183 
+Apr 08, 2023 11:06:13.183 
+Apr 08, 2023 11:06:13.483 [14188:15356:0408/110613.483:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for bdlj8.top failed:
+Apr 08, 2023 11:06:13.485 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:13.485 ERROR: No matching issuer found
+Apr 08, 2023 11:06:13.485 
+Apr 08, 2023 11:06:13.485 
+Apr 08, 2023 11:06:26.922 [14188:10096:0408/110626.921:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for g0push.com failed:
+Apr 08, 2023 11:06:26.922 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:26.923 ERROR: No matching issuer found
+Apr 08, 2023 11:06:26.923 
+Apr 08, 2023 11:06:26.923 
+Apr 08, 2023 11:06:26.923 [14188:15356:0408/110626.921:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cdn4image.com failed:
+Apr 08, 2023 11:06:26.925 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:26.925 ERROR: No matching issuer found
+Apr 08, 2023 11:06:26.925 
+Apr 08, 2023 11:06:26.926 
+Apr 08, 2023 11:06:34.787 [14188:15356:0408/110634.787:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for image.mndsrv.com failed:
+Apr 08, 2023 11:06:34.788 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:34.788 ERROR: No matching issuer found
+Apr 08, 2023 11:06:34.788 
+Apr 08, 2023 11:06:34.789 
+Apr 08, 2023 11:06:36.170 [14188:15356:0408/110636.170:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cdn4.mndsrv.com failed:
+Apr 08, 2023 11:06:36.172 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:36.172 ERROR: No matching issuer found
+Apr 08, 2023 11:06:36.172 
+Apr 08, 2023 11:06:36.172 
+Apr 08, 2023 11:06:39.257 [14188:15356:0408/110639.257:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for icon4count.com failed:
+Apr 08, 2023 11:06:39.258 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:39.258 ERROR: No matching issuer found
+Apr 08, 2023 11:06:39.259 
+Apr 08, 2023 11:06:39.259 
+Apr 08, 2023 11:06:40.988 [14188:15356:0408/110640.988:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for t5631.top failed:
+Apr 08, 2023 11:06:40.988 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 08, 2023 11:06:40.990 ERROR: No matching issuer found
+Apr 08, 2023 11:06:40.990 
+Apr 08, 2023 11:06:40.991 
+
+Apr 10, 2023 23:55:42.360 NEW SESSION
+Apr 10, 2023 23:55:42.360 [15676:6812:0410/235542.348:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 10, 2023 23:55:42.361 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 10, 2023 23:55:42.361 ERROR: No matching issuer found
+Apr 10, 2023 23:55:42.361 
+Apr 10, 2023 23:55:42.361 
+Apr 10, 2023 23:55:43.180 [15676:11612:0410/235543.180:ERROR:device_event_log_impl.cc(222)] [23:55:43.180] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 23:55:43.181 [15676:11612:0410/235543.180:ERROR:device_event_log_impl.cc(222)] [23:55:43.180] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 23:55:43.779 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2023 23:56:15.466 [15676:6812:0410/235615.465:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 10, 2023 23:56:15.467 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 10, 2023 23:56:15.467 ERROR: No matching issuer found
+Apr 10, 2023 23:56:15.467 
+Apr 10, 2023 23:56:15.467 
+Apr 11, 2023 24:05:09.292 [4000:18004:0411/000509.292:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 11, 2023 24:05:09.293 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 11, 2023 24:05:09.293 ERROR: No matching issuer found
+Apr 11, 2023 24:05:09.293 
+Apr 11, 2023 24:05:09.294 
+Apr 11, 2023 24:05:09.696 [4000:12436:0411/000509.696:ERROR:device_event_log_impl.cc(222)] [00:05:09.695] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 24:05:09.696 [4000:12436:0411/000509.696:ERROR:device_event_log_impl.cc(222)] [00:05:09.696] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 24:05:10.135 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 24:05:21.07 [4000:18004:0411/000521.007:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 11, 2023 24:05:21.08 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 11, 2023 24:05:21.08 ERROR: No matching issuer found
+Apr 11, 2023 24:05:21.08 
+Apr 11, 2023 24:05:21.09 
+Apr 11, 2023 24:12:11.926 [2884:10296:0411/001211.926:ERROR:device_event_log_impl.cc(222)] [00:12:11.926] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 24:12:11.926 [2884:10296:0411/001211.926:ERROR:device_event_log_impl.cc(222)] [00:12:11.926] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 24:12:12.361 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 24:13:56.235 [14108:5408:0411/001356.234:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 11, 2023 24:13:56.235 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 11, 2023 24:13:56.235 ERROR: No matching issuer found
+Apr 11, 2023 24:13:56.236 
+Apr 11, 2023 24:13:56.236 
+Apr 11, 2023 24:13:57.748 [14108:8384:0411/001357.748:ERROR:device_event_log_impl.cc(222)] [00:13:57.748] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 24:13:57.749 [14108:8384:0411/001357.749:ERROR:device_event_log_impl.cc(222)] [00:13:57.749] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 24:13:58.215 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 24:14:04.459 [14108:17820:0411/001404.459:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 11, 2023 24:14:04.460 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 11, 2023 24:14:04.460 ERROR: No matching issuer found
+Apr 11, 2023 24:14:04.460 
+Apr 11, 2023 24:14:04.460 
+
+Apr 11, 2023 08:38:26.343 NEW SESSION
+Apr 11, 2023 08:38:26.343 [13792:13548:0411/083826.342:ERROR:device_event_log_impl.cc(222)] [08:38:26.342] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 08:38:26.344 [13792:13548:0411/083826.342:ERROR:device_event_log_impl.cc(222)] [08:38:26.343] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 08:38:26.737 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 08:41:07.519 [13792:12556:0411/084107.519:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 11, 2023 08:41:07.520 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 11, 2023 08:41:07.520 ERROR: No matching issuer found
+Apr 11, 2023 08:41:07.520 
+Apr 11, 2023 08:41:07.520 
+
+Apr 20, 2023 19:56:46.321 NEW SESSION
+Apr 20, 2023 19:56:46.321 [17692:9496:0420/195646.319:ERROR:device_event_log_impl.cc(222)] [19:56:46.320] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 19:56:46.322 [17692:9496:0420/195646.319:ERROR:device_event_log_impl.cc(222)] [19:56:46.320] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 19:56:46.600 [17692:16792:0420/195646.600:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 19:56:46.602 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 19:56:46.602 ERROR: No matching issuer found
+Apr 20, 2023 19:56:46.602 
+Apr 20, 2023 19:56:46.602 
+Apr 20, 2023 19:56:47.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 19:57:57.115 [17692:16792:0420/195757.115:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for play.google.com failed:
+Apr 20, 2023 19:57:57.116 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 19:57:57.116 ERROR: No matching issuer found
+Apr 20, 2023 19:57:57.116 
+Apr 20, 2023 19:57:57.116 
+Apr 20, 2023 20:05:24.395 [16420:4396:0420/200524.395:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 20:05:24.396 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:05:24.396 ERROR: No matching issuer found
+Apr 20, 2023 20:05:24.396 
+Apr 20, 2023 20:05:24.396 
+Apr 20, 2023 20:05:25.523 [16420:16908:0420/200525.523:ERROR:device_event_log_impl.cc(222)] [20:05:25.523] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 20:05:25.523 [16420:16908:0420/200525.523:ERROR:device_event_log_impl.cc(222)] [20:05:25.523] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 20:05:25.891 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 20:06:14.144 [16420:7424:0420/200614.143:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 20:06:14.144 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:06:14.145 ERROR: No matching issuer found
+Apr 20, 2023 20:06:14.145 
+Apr 20, 2023 20:06:14.145 
+Apr 20, 2023 20:08:58.562 [16420:7424:0420/200858.562:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for play.google.com failed:
+Apr 20, 2023 20:08:58.563 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:08:58.563 ERROR: No matching issuer found
+Apr 20, 2023 20:08:58.563 
+Apr 20, 2023 20:08:58.564 
+Apr 20, 2023 20:09:00.431 [16420:7424:0420/200900.431:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for googleads.g.doubleclick.net failed:
+Apr 20, 2023 20:09:00.432 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:00.432 ERROR: No matching issuer found
+Apr 20, 2023 20:09:00.432 
+Apr 20, 2023 20:09:00.433 
+Apr 20, 2023 20:09:00.822 [16420:7424:0420/200900.821:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for adservice.google.com failed:
+Apr 20, 2023 20:09:00.822 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:00.823 ERROR: No matching issuer found
+Apr 20, 2023 20:09:00.823 
+Apr 20, 2023 20:09:00.825 
+Apr 20, 2023 20:09:08.131 [16420:7424:0420/200908.131:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for stats.g.doubleclick.net failed:
+Apr 20, 2023 20:09:08.133 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:08.133 ERROR: No matching issuer found
+Apr 20, 2023 20:09:08.133 
+Apr 20, 2023 20:09:08.133 
+Apr 20, 2023 20:09:08.371 [16420:4396:0420/200908.371:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for www.googleadservices.com failed:
+Apr 20, 2023 20:09:08.372 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:08.372 ERROR: No matching issuer found
+Apr 20, 2023 20:09:08.372 
+Apr 20, 2023 20:09:08.372 
+Apr 20, 2023 20:09:08.420 [16420:4396:0420/200908.420:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for 10175748.fls.doubleclick.net failed:
+Apr 20, 2023 20:09:08.421 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:08.421 ERROR: No matching issuer found
+Apr 20, 2023 20:09:08.421 
+Apr 20, 2023 20:09:08.421 
+Apr 20, 2023 20:09:08.435 [16420:4396:0420/200908.433:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for c.amazon-adsystem.com failed:
+Apr 20, 2023 20:09:08.435 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:08.435 ERROR: No matching issuer found
+Apr 20, 2023 20:09:08.435 
+Apr 20, 2023 20:09:08.436 
+Apr 20, 2023 20:09:08.705 [16420:7424:0420/200908.705:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for acdn.adnxs.com failed:
+Apr 20, 2023 20:09:08.705 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:08.706 ERROR: No matching issuer found
+Apr 20, 2023 20:09:08.706 
+Apr 20, 2023 20:09:08.706 
+Apr 20, 2023 20:09:08.914 [16420:7424:0420/200908.914:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for js.adsrvr.org failed:
+Apr 20, 2023 20:09:08.915 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:08.915 ERROR: No matching issuer found
+Apr 20, 2023 20:09:08.915 
+Apr 20, 2023 20:09:08.915 
+Apr 20, 2023 20:09:10.708 [16420:7424:0420/200910.708:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ib.adnxs.com failed:
+Apr 20, 2023 20:09:10.709 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.709 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.709 
+Apr 20, 2023 20:09:10.710 
+Apr 20, 2023 20:09:10.714 [16420:7424:0420/200910.714:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for rtb-csync.smartadserver.com failed:
+Apr 20, 2023 20:09:10.715 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.715 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.715 
+Apr 20, 2023 20:09:10.715 
+Apr 20, 2023 20:09:10.722 [16420:7424:0420/200910.721:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for secure.adnxs.com failed:
+Apr 20, 2023 20:09:10.722 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.722 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.722 
+Apr 20, 2023 20:09:10.722 
+Apr 20, 2023 20:09:10.780 [16420:7424:0420/200910.779:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for criteo-sync.teads.tv failed:
+Apr 20, 2023 20:09:10.780 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.780 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.780 
+Apr 20, 2023 20:09:10.781 
+Apr 20, 2023 20:09:10.783 [16420:7424:0420/200910.782:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cm.g.doubleclick.net failed:
+Apr 20, 2023 20:09:10.783 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.783 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.783 
+Apr 20, 2023 20:09:10.784 
+Apr 20, 2023 20:09:10.874 [16420:7424:0420/200910.874:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for eb2.3lift.com failed:
+Apr 20, 2023 20:09:10.874 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.874 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.875 
+Apr 20, 2023 20:09:10.875 
+Apr 20, 2023 20:09:10.974 [16420:7424:0420/200910.974:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for adgen.socdm.com failed:
+Apr 20, 2023 20:09:10.975 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.975 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.975 
+Apr 20, 2023 20:09:10.975 
+Apr 20, 2023 20:09:10.987 [16420:7424:0420/200910.986:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ads.stickyadstv.com failed:
+Apr 20, 2023 20:09:10.987 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:10.987 ERROR: No matching issuer found
+Apr 20, 2023 20:09:10.988 
+Apr 20, 2023 20:09:10.988 
+Apr 20, 2023 20:09:11.01 [16420:7424:0420/200911.001:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for ad.360yield.com failed:
+Apr 20, 2023 20:09:11.01 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:11.01 ERROR: No matching issuer found
+Apr 20, 2023 20:09:11.02 
+Apr 20, 2023 20:09:11.02 
+Apr 20, 2023 20:09:11.181 [16420:7424:0420/200911.180:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for s.amazon-adsystem.com failed:
+Apr 20, 2023 20:09:11.181 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:11.181 ERROR: No matching issuer found
+Apr 20, 2023 20:09:11.181 
+Apr 20, 2023 20:09:11.182 
+Apr 20, 2023 20:09:11.258 [16420:7424:0420/200911.257:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for simage2.pubmatic.com failed:
+Apr 20, 2023 20:09:11.258 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:11.259 ERROR: No matching issuer found
+Apr 20, 2023 20:09:11.259 
+Apr 20, 2023 20:09:11.259 
+Apr 20, 2023 20:09:11.461 [16420:7424:0420/200911.461:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for exchange.mediavine.com failed:
+Apr 20, 2023 20:09:11.462 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:11.462 ERROR: No matching issuer found
+Apr 20, 2023 20:09:11.462 
+Apr 20, 2023 20:09:11.462 
+Apr 20, 2023 20:09:11.526 [16420:7424:0420/200911.525:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for sync-criteo.ads.yieldmo.com failed:
+Apr 20, 2023 20:09:11.526 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:11.527 ERROR: No matching issuer found
+Apr 20, 2023 20:09:11.527 
+Apr 20, 2023 20:09:11.527 
+Apr 20, 2023 20:09:39.95 [16420:7424:0420/200939.095:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for csm.sg1.as.criteo.net failed:
+Apr 20, 2023 20:09:39.97 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 20:09:39.97 ERROR: No matching issuer found
+Apr 20, 2023 20:09:39.98 
+Apr 20, 2023 20:09:39.99 
+
+Apr 20, 2023 22:26:10.414 NEW SESSION
+Apr 20, 2023 22:26:10.414 [4560:18016:0420/222610.413:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 22:26:10.416 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 22:26:10.416 ERROR: No matching issuer found
+Apr 20, 2023 22:26:10.416 
+Apr 20, 2023 22:26:10.416 
+Apr 20, 2023 22:26:12.126 [4560:2888:0420/222612.126:ERROR:device_event_log_impl.cc(222)] [22:26:12.125] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 22:26:12.126 [4560:2888:0420/222612.126:ERROR:device_event_log_impl.cc(222)] [22:26:12.125] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 22:26:12.570 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 22:26:17.466 [4560:13340:0420/222617.466:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 22:26:17.467 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 22:26:17.467 ERROR: No matching issuer found
+Apr 20, 2023 22:26:17.467 
+Apr 20, 2023 22:26:17.467 
+
+Apr 20, 2023 23:09:55.824 NEW SESSION
+Apr 20, 2023 23:09:55.825 [9332:14300:0420/230955.822:ERROR:device_event_log_impl.cc(222)] [23:09:55.822] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 23:09:55.826 [9332:14300:0420/230955.823:ERROR:device_event_log_impl.cc(222)] [23:09:55.822] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 23:09:56.329 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 23:09:56.719 [9332:12648:0420/230956.718:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 23:09:56.719 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 23:09:56.719 ERROR: No matching issuer found
+Apr 20, 2023 23:09:56.720 
+Apr 20, 2023 23:09:56.720 
+Apr 20, 2023 23:16:58.706 [3668:9244:0420/231658.706:ERROR:device_event_log_impl.cc(222)] [23:16:58.705] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 23:16:58.707 [3668:9244:0420/231658.706:ERROR:device_event_log_impl.cc(222)] [23:16:58.706] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 23:16:59.290 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 20, 2023 23:20:12.176 NEW SESSION
+Apr 20, 2023 23:20:12.176 [8732:14320:0420/232012.175:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 23:20:12.177 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 23:20:12.177 ERROR: No matching issuer found
+Apr 20, 2023 23:20:12.177 
+Apr 20, 2023 23:20:12.178 
+Apr 20, 2023 23:20:13.490 [8732:8268:0420/232013.489:ERROR:device_event_log_impl.cc(222)] [23:20:13.489] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 23:20:13.490 [8732:8268:0420/232013.489:ERROR:device_event_log_impl.cc(222)] [23:20:13.489] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 23:20:13.888 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 23:20:28.59 [8732:14320:0420/232028.059:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 23:20:28.60 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 23:20:28.60 ERROR: No matching issuer found
+Apr 20, 2023 23:20:28.60 
+Apr 20, 2023 23:20:28.60 
+Apr 20, 2023 23:36:59.194 [8732:14320:0420/233659.193:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for leostop.com failed:
+Apr 20, 2023 23:36:59.194 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG6H0ETB22901059,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Apr 20, 2023 23:36:59.194 ERROR: No matching issuer found
+Apr 20, 2023 23:36:59.195 
+Apr 20, 2023 23:36:59.195 
+Apr 20, 2023 23:37:34.913 [8732:8268:0420/233734.912:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Apr 20, 2023 23:37:34.914 [8732:8268:0420/233734.913:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Apr 20, 2023 23:54:34.71 [8732:8268:0420/235434.047:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Apr 20, 2023 23:54:34.72 [8732:8268:0420/235434.049:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Apr 20, 2023 23:54:34.73 [8732:8268:0420/235434.049:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+
+May 08, 2023 17:15:35.383 NEW SESSION
+May 08, 2023 17:15:35.384 [22876:11436:0508/171535.383:ERROR:device_event_log_impl.cc(222)] [17:15:35.383] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 08, 2023 17:15:35.384 [22876:11436:0508/171535.383:ERROR:device_event_log_impl.cc(222)] [17:15:35.383] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 08, 2023 17:15:36.117 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
